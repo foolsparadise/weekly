@@ -1,10 +1,22 @@
 技术分享周刊，每周五发布。
 
-如果你看到好的链接，欢迎通过 [issue](https://github.com/ruanyf/weekly/issues) 提交。
+如果你想推广自己的项目，或者推荐文章/软件/资源，请[提交 issue](https://github.com/ruanyf/weekly/issues) 。
+
+## 2019
+
+**三月**：[第 49 期](docs/issue-49.md):high_brightness: | [第 48 期](docs/issue-48.md) | [第 47 期](docs/issue-47.md) | [第 46 期](docs/issue-46.md) | [第 45 期](docs/issue-45.md)
+
+**二月**：[第 44 期](docs/issue-44.md) | [第 43 期](docs/issue-43.md) | [第 42 期](docs/issue-42.md)
+
+**一月**：[第 41 期](docs/issue-41.md) | [第 40 期](docs/issue-40.md) | [第 39 期](docs/issue-39.md) | [第 38 期](docs/issue-38.md)
 
 ## 2018
 
-**十月**：[第 26 期](docs/issue-26.md) | [第 25 期](docs/issue-25.md)
+**十二月**：[第 37 期](docs/issue-37.md) | [第 36 期](docs/issue-36.md) | [第 35 期](docs/issue-35.md) | [第 34 期](docs/issue-34.md)
+
+**十一月**：[第 33 期](docs/issue-33.md) | [第 32 期](docs/issue-32.md) | [第 31 期](docs/issue-31.md) | [第 30 期](docs/issue-30.md) | [第 29 期](docs/issue-29.md)
+
+**十月**：[第 28 期](docs/issue-28.md) | [第 27 期](docs/issue-27.md) | [第 26 期](docs/issue-26.md) | [第 25 期](docs/issue-25.md)
 
 **九月**：[第 24 期](docs/issue-24.md) | [第 23 期](docs/issue-23.md) | [第 22 期](docs/issue-22.md) | [第 21 期](docs/issue-21.md)
 
